@@ -1,44 +1,24 @@
-# Introduction
+# Our To Do List
 
-A Simple ToDo App is built using the MVC Architecture, we have also implemented "authorization" so folx can sign up, customize & personalize the app 
+We wanted to create a todo list that was quirky and playful in it's design.
 
----
+Users can create, edit, complete, and delete their lists with a few intuitive clicks. A counter keeps track of remaining tasks. Plus, if the list starts to overflow, a gentle reminder nudges them to take action.
 
-> Be sure to add that lovely star 😀 and fork it for your own copy
+**Link to project:** Live link coming soon.
 
----
+![alt tag](http://placecorgi.com/1200/650)
 
-# Objectives
+## How It's Made:
 
-- It's a beginner level app created to understand how MVC concept and logins are added
+**Tech used:** EJS, CSS, JavaScript, Express, MongoDB, Passport.js
 
----
+Our mission? We set out to blend productivity with a touch of whimsy and a sprinkle of order in a full-stack web application.
 
-# Who is this for? 
+The result? Thanks to MVC architecture, a meticulously organized codebase. Thanks to CSS, an inviting, quirky, and playful design.
 
-- It's for beginners & intermediates with little more experience, to help understand the various aspects of building a node app with some complex features
+Node.js and Express work in the background, hearing requests and serving up responses.
+Passport.js greets users, ensuring they have an account to personalize their individual lists.
+MongoDB serves as our database holding each user and their unique lists.
+EJS swoops in for the adaptive logic we need to choreograph what's rendered on the screen.
 
----
-
-# Packages/Dependencies used 
-
-bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
-
----
-
-# Install all the dependencies or node packages used for development via Terminal
-
-`npm install` 
-
----
-
-# Things to add
-
-- Create a `.env` file and add the following as `key: value` 
-  - PORT: 2121 (can be any port example: 3000) 
-  - DB_STRING: `your database URI` 
- ---
- 
- Have fun testing and improving it! 😎
-
-
+All built with responsive web design. 🌟🎨 🚀✨
