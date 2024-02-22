@@ -17,9 +17,9 @@ Our mission? We set out to blend productivity with a touch of whimsy and a sprin
 
 The result? Thanks to MVC architecture, a meticulously organized codebase. Thanks to CSS, an inviting, quirky, and playful design.
 
-Node.js and Express work in the background, hearing requests and serving up responses.
-Passport.js greets users, ensuring they have an account to personalize their lists.
-MongoDB serves as our database holding each user and their unique lists.
-EJS swoops in for the adaptive logic we need to choreograph what's rendered on the screen.
+- Node.js and Express work in the background, hearing requests and serving up responses.
+- Passport.js greets users, ensuring they have an account to personalize their lists.
+- MongoDB serves as our database holding each user and their unique lists.
+- EJS swoops in for the adaptive logic we need to choreograph what's rendered on the screen.
 
 Built with responsive web design. 🌟🎨 🚀✨
