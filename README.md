@@ -11,7 +11,7 @@ Users can create, edit, complete, and delete their lists with a few intuitive cl
 
 ## How It's Made:
 
-**Tech used:** EJS, CSS, JavaScript, Express, MongoDB, Passport.js
+**Tech used:** Node.js, Express, MongoDB, Passport.js, EJS, CSS
 
 Our mission? We set out to blend productivity with a touch of whimsy and a sprinkle of order in a full-stack web application.
 
