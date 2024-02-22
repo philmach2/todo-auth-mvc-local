@@ -30,10 +30,14 @@
             </div>
         </div>
         <div class="bottom-half">
+            <% if (todos.length < 6) { %>
             <form action="/todos/createTodo" method='POST'>
                 <input type="text" placeholder="Enter Todo Item" name='todoItem'>
                 <input type="submit">
             </form>
+            <% } else { %>
+                <h4>Hey! It's time to quit addin' and start doin'.</h4>
+            <% } %>
         </div>
     </div>
 

@@ -93,12 +93,6 @@ body {
     margin-bottom: auto;
 }
 
-h2 {
-    text-align: center;
-    font-size: 48px;        
-    margin-bottom: auto;
-}
-
 .top-half {
     flex: 1;
     background-color: rgb(255,255,255);
@@ -186,4 +180,15 @@ span.del {
 
 h1, h2, span, p, li {
     cursor: default;
+}
+
+h2 {
+    text-align: center;
+    font-size: 48px;        
+    margin-bottom: auto;
+}
+
+h4 {
+    margin: auto;
+    font-size: 48px;
 }
