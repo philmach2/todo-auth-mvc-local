@@ -1,25 +1,49 @@
-# Our To-Do List
-
-We wanted to create a to-do list that was quirky and playful in its design.
-
-Users can create, edit, complete, and delete their lists with a few intuitive clicks. A counter keeps track of remaining tasks. A gentle reminder nudges the user to take action if the list starts to overflow.
-
-**Link to project:** Live link coming soon.
-
 ![Our To Do List](https://github.com/philmach2/todo-auth-mvc-local/assets/110493891/57621d8c-28a6-4add-98ca-2a48db3353fe)
 
+# Our To-Do List
 
-## How It's Made:
+A quirky, playful take on the classic to-do list — built to make productivity feel a little more fun and a little less like work.
 
-**Tech used:** Node.js, Express, MongoDB, Passport.js, EJS, CSS
+Users can create, edit, complete, and delete tasks with just a few intuitive clicks.  
+A counter keeps track of how many tasks are left, and if your list starts getting a bit *too long*, a gentle nudge encourages you to take action.
 
-Our mission? We set out to blend productivity with a touch of whimsy and a sprinkle of order in a full-stack web application.
+**Live link:** Coming soon!
 
-The result? Thanks to MVC architecture, a meticulously organized codebase. Thanks to CSS, an inviting, quirky, and playful design.
+---
 
-- Node.js and Express work in the background, hearing requests and serving up responses.
-- Passport.js greets users, ensuring they have an account to personalize their lists.
-- MongoDB serves as our database holding each user and their unique lists.
-- EJS swoops in for the adaptive logic we need to choreograph what's rendered on the screen.
+## ✨ Features
 
-Built with responsive web design. 🌟🎨 🚀✨
+- Create, edit, complete, and delete tasks  
+- Task counter to track remaining items  
+- Gentle “overflow” reminder if the list gets too long  
+- User-specific lists via authentication  
+- Responsive, playful UI  
+- Built with MVC architecture for clean organization  
+
+---
+
+## 🛠️ How It’s Made
+
+**Tech Used:**  
+Node.js, Express, MongoDB, Passport.js, EJS, CSS
+
+Our mission?  
+To blend productivity with a touch of whimsy and a sprinkle of order in a full-stack web application.
+
+The result?
+
+- **MVC architecture** provides a tidy, well-structured codebase.  
+- **CSS** brings the inviting, quirky, playful design to life.  
+- **Node.js + Express** work behind the scenes, listening for requests and serving up responses.  
+- **Passport.js** welcomes users, making sure they have an account to personalize their lists.  
+- **MongoDB** stores each user and their unique tasks.  
+- **EJS** handles adaptive rendering to choreograph what appears on the screen.  
+- And of course — everything is wrapped up in **responsive web design**. 🌟🎨🚀✨
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm start
